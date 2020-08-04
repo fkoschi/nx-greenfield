@@ -28,6 +28,15 @@
     "reg-e2e": {
       "tags": [],
       "implicitDependencies": ["reg"]
+    },
+    "ui": {
+      "tags": []
+    },
+    "api": {
+      "tags": []
+    },
+    "data": {
+      "tags": []
     }
   }
 }
